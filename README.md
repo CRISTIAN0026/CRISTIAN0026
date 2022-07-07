@@ -5,3 +5,7 @@ Full Stack Developer
 </h2>
 
 ## Habilidades:
+
+<p>
+  JavaScript
+<p/>
