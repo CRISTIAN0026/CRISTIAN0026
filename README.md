@@ -7,6 +7,6 @@ Full Stack Developer
 ## Habilidades:
 
 <p>
-  JavaScript
-  React
+  <code>JavaScript<code/>
+  <code>React<code/>
 <p/>
