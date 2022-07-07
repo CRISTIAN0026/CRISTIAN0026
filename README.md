@@ -21,9 +21,13 @@ const Cris = {
 ```
 ## Proyectos:
 <h4>APP VideoGames<h4/>
-<h5>Visitar sitio web : **http://pi-vi-games-26a.vercel.app/**<h5/>
+
+<h5>Visitar sitio web : http://pi-vi-games-26a.vercel.app/<h5/>
 
 <h4>APP Recetas<h4/>
+
+<h5>Visitar sitio web : http://pi-food-25a.vercel.app/<h5/>
+
 
 ## Contacto:
 **cristianpaez009@gmail.com**
