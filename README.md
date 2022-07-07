@@ -14,7 +14,7 @@ adquiri en la carrera de Full Stack de Henry, actualmente estoy estudiando Anali
 ```javascript
 const Cris = {
   codigos: [Javascript, HTML, CSS ],
-  herramientas: [React, Redux, Node, Express, sequelize],
+  herramientas: [React, Redux, Node, Express, Sequelize],
   lenguaje: "Español",
  desafio: "Aprender y Aplicar conocimientos adquiridos como Full Stack"
 }
