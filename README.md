@@ -22,11 +22,13 @@ const Cris = {
 ## Proyectos:
 <h4>APP VideoGames<h4/>
 <p>Tecnologias usadas: JavaScript, React, Redux, Express, Node, Sequelize, HTML, CSS<p>
-<h5>Visitar sitio web : http://pi-vi-games-26a.vercel.app/<h5/>
+<h5>Visitar sitio web: http://pi-vi-games-26a.vercel.app/<h5/>
+<h5>Ver codigo: https://github.com/CRISTIAN0026/PI-ViG-26a <h5/>
 
 <h4>APP Recetas<h4/>
 <p>Tecnologias usadas: JavaScript, React, Redux, Express, Node, Sequelize, HTML, CSS<p>
-<h5>Visitar sitio web : http://pi-food-25a.vercel.app/<h5/>
+<h5>Visitar sitio web: http://pi-food-25a.vercel.app/<h5/>
+<h5>Ver codigo: https://github.com/CRISTIAN0026/recet-25a<h5/>
 
 
 ## Contacto:
