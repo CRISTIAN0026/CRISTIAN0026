@@ -9,5 +9,69 @@ Full Stack Developer
 ## Habilidades:
 
 <p>
-  <code>React<code/>
+  · ⦿ Creative
+
+· ⦿ Resilient
+
+· ⦿ Born teacher
+
+⚫ I feel comfortable working with :
+
+· ⦿ Semantic HTML5
+
+· ⦿ Advanced CSS3
+
+· ⦿ SASS
+
+· ⦿ Tailwind
+
+· ⦿ Figma
+
+· ⦿ GIT
+
+· ⦿ Javascript ES6+
+
+· ⦿ React
+
+· ⦿ Redux
+
+· ⦿ Gatsby
+
+· ⦿ Next
+
+· ⦿ Server side rendering
+
+· ⦿ Vue
+
+· ⦿ Vuex
+
+· ⦿ GraphQL
+
+· ⦿ Insomnia
+
+· ⦿ Postman
+
+· ⦿ Strapi
+
+· ⦿ Node
+
+· ⦿ Express
+
+· ⦿ Cloudinary
+
+· ⦿ Firebase
+
+· ⦿ Docker
+
+· ⦿ Sequalize
+
+· ⦿ Jest
+
+· ⦿ Enzime
+
+· ⦿ React Testing Library
+
+· ⦿ Vercel
+
+· ⦿ Heroku
 <p/>
