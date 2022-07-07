@@ -1,4 +1,4 @@
-### Hola, mi es Cristian Paez 👋
+### Hola, mi nomobre es Cristian Paez 👋
 
 <!--
 **CRISTIAN0026/CRISTIAN0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
