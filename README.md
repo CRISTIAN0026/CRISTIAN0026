@@ -22,7 +22,7 @@ const Cris = {
 ## Proyectos:
 <h4>APP VideoGames<h4/>
 
-<img src='/img/Landing.png' width='50px' height='35px'>
+<img src='/img/Landing.png' width='500px' height='350px'>
 
 <h4>APP Recetas<h4/>
 
