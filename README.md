@@ -8,4 +8,5 @@ Full Stack Developer
 
 <p>
   JavaScript
+  React
 <p/>
