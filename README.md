@@ -23,5 +23,5 @@ const Cris = {
 <h4>APP VideoGames<h4/>
 <h4>APP Recetas<h4/>
 
-##Contacto:
+## Contacto:
 **cristianpaez009@gmail.com**
