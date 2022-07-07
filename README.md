@@ -4,4 +4,4 @@
 Full Stack Developer 
 </h2>
 
-## :star: Languages and Tools:
+## Habilidades:
