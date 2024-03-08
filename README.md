@@ -6,7 +6,7 @@
 Full Stack Developer 
 </h2>
 
-<p>Tengo 25 año soy de colombia tengo conocimientos en Javascript, React, Redux, Node, Express los cuales
+<p>Tengo 26 años soy de colombia tengo conocimientos en Javascript, React, Redux, Node, Express los cuales
 adquiri en la carrera de Full Stack de Henry, actualmente estoy estudiando Analisis y Desarrollo de Sotfware en el SENA<p/>
 
 ## Habilidades:
